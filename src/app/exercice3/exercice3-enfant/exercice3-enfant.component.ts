@@ -11,5 +11,4 @@ export class Exercice3EnfantComponent implements OnInit {
 
   ngOnInit() {
   }
-
 }
