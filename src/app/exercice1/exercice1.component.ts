@@ -13,4 +13,7 @@ export class Exercice1Component implements OnInit {
   ngOnInit() {
   }
 
+  compteurValue(value: number): void {
+    this.compteur = value;
+  }
 }
